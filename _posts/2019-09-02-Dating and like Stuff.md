@@ -11,11 +11,11 @@ But as happens in dating, those relationships have either ended or fizzled out o
 
 ### The Loop
  
-1. I'm bored and everything I want to do is more fun with a partner in crime (this is especially big because I am an introvert who has much higher tolerance for time at home than most people and I don't regularly feel the actual *urge* to go out)
-2. I should go do something and maybe try to talk to some people
-3. Ugh being social sucks, whoever I date should be a homebody
-4. Wait, I'm wanting to date someone who is kind of basically me so that I can justify spending staying home
-5. So should I even be dating then?
+* I'm bored and everything I want to do is more fun with a partner in crime (this is especially big because I am an introvert who has much higher tolerance for time at home than most people and I don't regularly feel the actual *urge* to go out)
+* I should go do something and maybe try to talk to some people
+* Ugh being social sucks, whoever I date should be a homebody
+* Wait, I'm wanting to date someone who is kind of basically me so that I can justify spending staying home
+* So should I even be dating then?
 
 It's something like that, where I cycle through a couple of things that I feel to be contradictory. In other words, I question my own motives and hit the polar opposites of dating from I-want-a-serious-relationship to be-single-forever.
 
