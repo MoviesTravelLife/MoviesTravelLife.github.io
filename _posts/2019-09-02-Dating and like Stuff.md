@@ -7,7 +7,7 @@ tags: [personal, dating, word vomit, meta]
 
 ## Dating
 
-I haven't written anything in a while. When I was thinking about that, I started thinking about why. That's when I realized it was because I've been doing some dating. Since [my last post]({% post_url 2019-06-07-A-Century-of-Horror %}), almost 3 months ago, I have - shall we say - spent a lot of my time with a couple of specific people. 
+I haven't written anything in a while. When I was thinking about that, I started thinking about why. That's when I realized it was because I've been doing some dating. Since [my last post]({% post_url 2019-06-07-A-Century-of-Horror %}), almost 3 months ago, I have - shall we say - spent a lot of my time with a couple of specific people. I should probably clarify that I don't mean at the same time. I don't have the time or energy for that.
 
 But as happens in dating, those relationships have either ended or fizzled out or not gone the way I was hoping or whatever else happens in dating. Which happens! I am not here to write about that. What I'm here to get out is this complicated loop I've found myself thinking. It goes something like this:
 
