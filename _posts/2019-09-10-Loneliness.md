@@ -27,7 +27,7 @@ Loneliness is common, of this I have no doubt. But how is that comforting? It’
 
 A week from today, I depart to go to Tokyo. I’ll be spending time there and in Kyoto, surrounded but alone. I have a few tabs open for some AirBnb experiences, though, so I’m not, like, sitting here anxiously. There are obviously things you can do to address loneliness. But I must admit that I am not looking forward to being without my friends in a new place for a week. I will enjoy it once I’m there and I’m sure when I come back home it will be an exciting thing to talk about. But I’m not there, enjoying the post-vacation glow. I’m here, before the trip, staring down the barrel of a week of a week-long isolation. It’s the classic and cliche head versus heart.
 
-Which leads me to [my last post]({% 2019-09-02-Dating and like Stuff %}) where I specifically “question my own motives” when it comes to dating. So, somehow, my conclusion to this entire dilemma is that I should probably stop dating until I sort out my selfish feelings. That begs the question, how will I fill this gap where a meaningful relationship would be?
+Which leads me to [my last post]({% post_url 2019-09-02-Dating and like Stuff %}) where I specifically “question my own motives” when it comes to dating. So, somehow, my conclusion to this entire dilemma is that I should probably stop dating until I sort out my selfish feelings. That begs the question, how will I fill this gap where a meaningful relationship would be?
 
 It’s simple. I don’t. I guess.
 
