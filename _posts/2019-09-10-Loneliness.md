@@ -18,7 +18,7 @@ Just putting these words down on a screen has been helpful. See, that’s part o
 >well as any manner of thy friends or of thine  
 >own were; any man's death diminishes me,  
 >because **I am involved in mankind.**  
->And therefore never send to know for whom   
+>And therefore never send to know for whom  
 >the bell tolls; it tolls for thee.  
 
 Loneliness is common, of this I have no doubt. But how is that comforting? It’s not like I, or anyone else, is asking for the world to line up and shake hands. I am simply feeling the gap where a partner would go. This is where Japan comes up.
