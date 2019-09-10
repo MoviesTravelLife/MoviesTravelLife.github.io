@@ -21,6 +21,8 @@ Just putting these words down on a screen has been helpful. See, that’s part o
 >And therefore never send to know for whom  
 >the bell tolls; it tolls for thee.  
 
+*[No Man Is an Island, by John Donne](https://web.cs.dal.ca/~johnston/poetry/island.html)*
+
 Loneliness is common, of this I have no doubt. But how is that comforting? It’s not like I, or anyone else, is asking for the world to line up and shake hands. I am simply feeling the gap where a partner would go. This is where Japan comes up.
 
 A week from today, I depart to go to Tokyo. I’ll be spending time there and in Kyoto, surrounded but alone. I have a few tabs open for some AirBnb experiences, though, so I’m not, like, sitting here anxiously. There are obviously things you can do to address loneliness. But I must admit that I am not looking forward to being without my friends in a new place for a week. I will enjoy it once I’m there and I’m sure when I come back home it will be an exciting thing to talk about. But I’m not there, enjoying the post-vacation glow. I’m here, before the trip, staring down the barrel of a week of a week-long isolation. It’s the classic and cliche head versus heart.
