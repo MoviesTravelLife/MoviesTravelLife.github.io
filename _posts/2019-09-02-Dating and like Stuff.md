@@ -3,6 +3,7 @@ layout: post
 title: Dating and, like, Stuff
 categories: [Personal]
 tags: [personal, dating, word vomit, meta]
+published:false
 ---
 
 I haven't written anything in a while. When I was thinking about that, I started thinking about why. 
