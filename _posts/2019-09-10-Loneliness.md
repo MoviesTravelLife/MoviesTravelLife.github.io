@@ -3,6 +3,7 @@ layout: post
 title: Loneliness
 categories: [Personal]
 tags: [personal, dating, word vomit, meta]
+published:false
 ---
 
 I really have no objective with this post but, I guess, to express some pretty unpleasant feelings and to organize my thoughts. For much of this year I have considered myself a bachelor, in a lazy sense of the word, but those feelings have been steadily transforming into loneliness. A loneliness fed by a lack of a meaningful connection with someone I can grow and change with. A loneliness looming large days before I depart on a week-long solo trip to another country, thousands of miles of away from home. :)
