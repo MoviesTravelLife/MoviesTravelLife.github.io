@@ -157,7 +157,7 @@ Many of these I've seen this year or previously, and many I haven't seen at all.
 
 Of the 135, 4 (3%) are not in English. The 4 are split between Japanese and Spanish, each with 2 movies. There is certainly a bias for modern movies, but I tried to give myself a wide variety of options, from the early days of films to some more modern classics.
 
-![Spooktober Decades](/imagines/Spooktober Decades.png)
+![Spooktober Decades](/images/Spooktober Decades.png)
 
 So far this year, I have watched 100 films, five of them two times each for a total of 105 viewings. 32 of those have been sorted as Horror on IMDb. My movie viewing has decreased in recent months as I've put a lot more time into dating and television shows and life in general. 
 
