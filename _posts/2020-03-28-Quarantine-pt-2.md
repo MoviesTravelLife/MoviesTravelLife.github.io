@@ -5,7 +5,7 @@ categories: [Personal, Series, Quarantine]
 tags: [history, personal, series, quarantine, politics]
 ---
 
-I must be honest and lead the front with a fact: it is hard to keep track of the days. Today is Saturday, March 28, 2020. That makes it day 13 of my quarantine. Things have...developed. To see and experience the effects of exponential growth is quite _something_.
+I must be honest and start with a fact: it is hard to keep track of the days. Today is Saturday, March 28, 2020. That makes it day 13 of my quarantine. Things have...developed. To see and experience the effects of exponential growth is quite _something_.
 
 I'm selecting March 16 as the first of quarantine _(my true love gave to me...)_ because it is the first day I worked from home indefinitely. Turns out indefinitely meant five days. I was placed on furlough at the beginning of this week. Unemployment claims are something like three times higher than the 2009-2010 crash. Like everybody else, my health insurance is tied to my employment. Due to a probationary period policy, I have received no health insurance in this time and will have to go into debt to afford it during this pandemic. But the good news is that I have been approved for unemployment which should be enough to keep me afloat for the next six months. 
 
