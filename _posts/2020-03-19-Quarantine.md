@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Quarantine
-categories: [Personal, Series]
-tags: [history, personal, series]
+categories: [Personal, Series, Quarantine]
+tags: [history, personal, series, quarantine]
 ---
 
 Well, then.
