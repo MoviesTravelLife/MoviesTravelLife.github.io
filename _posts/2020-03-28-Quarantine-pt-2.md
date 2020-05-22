@@ -3,6 +3,7 @@ layout: post
 title: Quarantine, Part 2
 categories: [Personal, Series, Quarantine]
 tags: [history, personal, series, quarantine, politics]
+hidden: true
 ---
 
 I must be honest and start with a fact: it is hard to keep track of the days. Today is Saturday, March 28, 2020. That makes it day 13 of my quarantine. Things have...developed. To see and experience the effects of exponential growth is quite _something_.
