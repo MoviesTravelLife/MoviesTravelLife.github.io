@@ -3,7 +3,7 @@ layout: post
 title: Quarantine
 categories: [Personal, Series, Quarantine]
 tags: [history, personal, series, quarantine]
-hidden: true
+published: false
 ---
 
 Well, then.
