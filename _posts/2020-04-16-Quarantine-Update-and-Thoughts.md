@@ -3,6 +3,7 @@ layout: post
 title: Quarantine Update and Thoughts
 categories: [Personal, Series, Quarantine]
 tags: [history, personal, series, quarantine, politics, movies, gaming]
+published: false
 ---
 
 31 days ago quarantine began. It's not really quarantine. It's a tentative shelter-in-place order, an alternate reality where isolation and mistrust hang thick in the air. March crawled but April has been a blur. I figure it's time to write. Let's see where this goes.
